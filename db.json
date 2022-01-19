@@ -1340,6 +1340,105 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "Ethan Freeman",
+      "hp": "100",
+      "sprites": {
+        "frontURL": "",
+        "backURL": ""
+      },
+      "id": 151
+    },
+    {
+      "name": "Ethan Freeman",
+      "hp": "100",
+      "sprites": {
+        "frontURL": "",
+        "backURL": ""
+      },
+      "id": 152
+    },
+    {
+      "name": "Ethan Freeman",
+      "hp": "100",
+      "sprites": {
+        "frontURL": "",
+        "backURL": ""
+      },
+      "id": 153
+    },
+    {
+      "name": "Ethan Freeman",
+      "hp": "100",
+      "sprites": {
+        "frontURL": "",
+        "backURL": ""
+      },
+      "id": 154
+    },
+    {
+      "name": "Ethan Freeman",
+      "hp": "100",
+      "sprites": {
+        "frontURL": "",
+        "backURL": ""
+      },
+      "id": 155
+    },
+    {
+      "name": "Ethan Freeman",
+      "hp": "100",
+      "sprites": {
+        "frontURL": "",
+        "backURL": ""
+      },
+      "id": 156
+    },
+    {
+      "name": "Ethan Freeman",
+      "hp": "100",
+      "sprites": {
+        "frontURL": "",
+        "backURL": ""
+      },
+      "id": 157
+    },
+    {
+      "name": "Guy",
+      "hp": "1000",
+      "sprites": {
+        "frontURL": "",
+        "backURL": ""
+      },
+      "id": 158
+    },
+    {
+      "name": "Guy",
+      "hp": "1000",
+      "sprites": {
+        "frontURL": "",
+        "backURL": ""
+      },
+      "id": 159
+    },
+    {
+      "name": "Ethan Freeman",
+      "hp": "100",
+      "sprites": {
+        "frontURL": "",
+        "backURL": ""
+      },
+      "id": 160
+    },
+    {
+      "name": "Ethan Freeman",
+      "hp": "100",
+      "sprites": {
+        "frontURL": "",
+        "backURL": ""
+      },
+      "id": 161
     }
   ]
 }
